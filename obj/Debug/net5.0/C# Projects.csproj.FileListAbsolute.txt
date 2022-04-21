@@ -1,0 +1,44 @@
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\C# Projects.exe
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\C# Projects.deps.json
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\C# Projects.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\C# Projects.runtimeconfig.dev.json
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\ref\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\C# Projects.pdb
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\ref\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.pdb
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.genruntimeconfig.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\obj\Debug\net5.0\C# Projects.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\C# Projects.exe
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\C# Projects.deps.json
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\C# Projects.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\C# Projects.runtimeconfig.dev.json
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\ref\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\C# Projects.pdb
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\ref\C# Projects.dll
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.pdb
+C:\Users\tyler\OneDrive\Desktop\C# Projects\C# Team Projects Repo\C# Final Platformer\obj\Debug\net5.0\C# Projects.genruntimeconfig.cache

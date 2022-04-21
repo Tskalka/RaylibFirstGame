@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VI1w5K8P9lpVqxQSr65HKmefe/nBbZm063WFRkxv2O//apKnQulFXI2dBTkd8uSAOvMeMQTYuC8gYHJMYNSk9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyler\\OneDrive\\Desktop\\C# Projects\\C# Team Projects Repo\\C# Final Platformer\\C# Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyler\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
